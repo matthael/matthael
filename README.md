@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi , i'm Matheus or anão 👋
 
 <!--
 **Biganao/Biganao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### ABOUT ME :
+
+Hi my name is Matheus , i'm Developer front-end and trying program in back-end , i'am student trying my best 
+
+##
+
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biganao&theme=algolia&show_icons=1">
+ 
