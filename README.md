@@ -10,10 +10,10 @@ Hi my name is Matheus , i'm Developer front-end and trying program in back-end ,
 
 ##
 
-<div align="left">
+<div>
   <a href="https://github.com/Biganao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biganao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" widht="140" src="https://github-readme-stats.vercel.app/api?username=Biganao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="145em" widht="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 ##
