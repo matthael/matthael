@@ -1,25 +1,15 @@
 # Hi , i'm Matheus or anão 👋
 
-<!--
-**Biganao/Biganao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 currently i work with front-end
+- 🌱 i (try) learning HTML5 , CSS3 , JAVA 
+- ⚡ Fun fact: i'm not a dwarf just a 1.60m guy but comparing with my friends i'm like a dwarf :)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### ABOUT ME :
 
 Hi my name is Matheus , i'm Developer front-end and trying program in back-end , i'am student trying my best 
 
-##
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=biganao&theme=algolia&show_icons=1">
  
+  https://github.com/Biganao/Biganao/blob/output/github-contribution-grid-snake.svg
