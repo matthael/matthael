@@ -1,7 +1,7 @@
 # Hi , i'm Matheus or anão 👋
 
 - 🔭 currently i work with front-end
-- 🌱 i (try) learning HTML5 , CSS3 , JAVA 
+- 🌱 i'am learning HTML5 , CSS3 , JAVA 
 - ⚡ Fun fact: i'm not a dwarf just a 1.60m guy but comparing with my friends i'm like a dwarf :)
 
 ### ABOUT ME :
