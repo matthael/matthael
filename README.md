@@ -1,12 +1,12 @@
 # Hi , i'm Matheus or anão 👋
 
-- 🔭 currently i work with front-end
-- 🌱 i'am learning HTML5 , CSS3 , JAVA 
+- 🔭 currently i'am studying different programming languges.
+- 🌱 i'am learning HTML5, CSS3, JAVA, PHP, JS and more.
 - ⚡ Fun fact: i'm not a dwarf just a 1.60m guy but comparing with my friends i'm like a dwarf :)
 
 ### ABOUT ME :
 
-Hi my name is Matheus , i'm Developer front-end and trying program in back-end , i'am student trying my best 
+Hi my name is Matheus , i'm Developer front-end trying program in back-end, i'am student trying my best.
 
 ##
 
