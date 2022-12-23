@@ -1,12 +1,13 @@
-# Hi , i'm Matheus or anão 👋
+# Hi , i'm Matheus 👋
 
 - 🔭 currently i'am studying different programming languages.
-- 🌱 i'am learning HTML5, CSS3, JAVA, PHP, JS and more.
+- 🌱 i'am learning React.JS, Node.JS and more.
+- ✔ i'am already have skills and experience in HTMl, CSS, JS and JAVA
 - ⚡ Fun fact: i'm not a dwarf just a 1.60m guy :)
 
 ### ABOUT ME :
 
-Hi my name is Matheus , i'm Developer front-end trying program in back-end, i'am student trying my best.
+Hi my name is Matheus, i have 16yo, i'm a Developer front-end in ascension learning program in back-end, i'am student trying my best.
 
 ##
 
