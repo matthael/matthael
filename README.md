@@ -35,7 +35,6 @@ Hi my name is Matheus, i have 16yo, i'm a Developer front-end in ascension learn
     <a href ="https://twitter.com/anaolokaso"><img src="https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d"></a>
   
   
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/Biganao/Biganao/blob/output/github-contribution-grid-snake.svg)
     
 </div>
