@@ -12,10 +12,10 @@ Hi my name is Matheus, i have 16yo, i'm a Developer front-end in ascension learn
 ##
 
 <a href="https://github.com/Biganao/github-readme-stats">
-  <img height="170em" widht="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Biganao&theme=algolia" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api?username=Biganao&theme=algolia" />
 </a>
 <a href="https://github.com/Biganao/github-readme-stats">
-  <img height="170em" widht="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&theme=algolia" />
+  <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&theme=algolia" />
 </a>
   
 ##
