@@ -2,24 +2,34 @@
 
 - 🔭 currently i'am studying different programming languages.
 - 🌱 i'am learning React.JS, Node.JS and more.
-- ✔ i'am already have skills and experience in HTMl, CSS, JS and JAVA
+- ✔ i'am already have skills and experience in HTML, CSS, JS and JAVA
 - ⚡ Fun fact: i'm not a dwarf just a 1.60m guy :)
 
 ### ABOUT ME :
 
-Hi my name is Matheus, i have 16yo, i'm a Developer front-end in ascension learning program in back-end, i'am student trying my best.
+Hi, my name is Matheus, i'am from Brazil, i'm 16yo and i'm a front-end Developer in ascension learning coding in back-end, i'am a student always trying my best.
 
 ##
 
 <div align="center">
   <a href="https://github.com/Biganao">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Biganao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&langs_count=7&theme=algolia"/>
+    <img 
+         height="150em" 
+         src="https://github-readme-stats.vercel.app/api?username=Biganao&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      />
+    <img 
+         height="150em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biganao&layout=compact&langs_count=7&theme=algolia"
+      />
+    <img 
+         height="170em" 
+         src="https://streak-stats.demolab.com?user=Biganao&theme=algolia&border=FFF&sideNums=00D081" 
+      />
   </a>
 </div>
   
 ##
-  
+
 <div style="display: inline-block">
   <img align="center" alt="anão-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="anão-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
