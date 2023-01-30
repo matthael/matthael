@@ -1,4 +1,4 @@
-# Hi , i'm Matheus 👋
+# Hi, i'm Matheus 👋
 
 - 🔭 currently i'am studying different programming languages.
 - 🌱 i'am learning React.JS, Node.JS and more.
