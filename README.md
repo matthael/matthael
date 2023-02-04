@@ -1,9 +1,9 @@
 # Hello there, i'm Matheus 👋
 
-- 🔭 currently i'am studying different programming languages.
-- 🌱 i'am learning React.JS, Node.JS and more.
-- ✔ i'am already have skills and experience in HTML, CSS, JS and JAVA
-- ⚡ Fun fact: i'm not a dwarf just a 1.60m guy :)
+- 🌱 Currently I'am learning React.JS, Node.JS and more.
+- 🔭 In future I'am searching for learn WordPress, Next.js, TypeScript and SCSS.  
+- ✔  I'am already have skills and experience in HTML, CSS, JS and JAVA
+- ⚡ Fun fact: I'm not a dwarf just a 1.60m guy :)
 
 ### ABOUT ME :
 
