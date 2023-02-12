@@ -3,7 +3,7 @@
 - 🌱 Currently I'am learning React.JS, Node.JS and more.
 - 🔭 In future I'am searching for learn WordPress, Next.js, TypeScript and SCSS.  
 - ✔  I'am already have skills and experience in HTML, CSS, JS and JAVA
-- ⚡ Fun fact: I'm not a dwarf just a 1.60m guy :)
+- ⚡ Fun fact: I'm not a dwarf just a 1.64m guy :)
 
 ### ABOUT ME :
 
