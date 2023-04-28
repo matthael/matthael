@@ -7,7 +7,7 @@
 
 ### ABOUT ME :
 
-Hi, my name is Matheus, i'am from Brazil, i'm 16yo and i'm a front-end Developer in ascension learning coding in back-end, i'am a student always trying my best.
+Hi, my name is Matheus, i'am from Brazil, i'm 17yo and i'm a Developer in ascension every day learning some thing different, i'am a student always trying my best.
 
 ##
 
