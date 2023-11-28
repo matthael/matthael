@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matthael&show_icons=true&count_private=true&hide_border=true&title_color=035efc&icon_color=035efc&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthael&layout=compact&hide_border=true&title_color=035efc&text_color=035efc&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthael&layout=compact&hide_border=true&title_color=035efc&text_color=c9d1d9&bg_color=0d1117" />
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-035efc?style=for-the-badge&logo=linkedin&logoColor=FFF)](https://www.linkedin.com/in/matheus-filipe-946430237/)
 [![Instagram](https://img.shields.io/badge/-Instagram-035efc?style=for-the-badge&logo=instagram&logoColor=FFF)](https://www.instagram.com/_.matthael._/)
