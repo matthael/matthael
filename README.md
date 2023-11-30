@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=035efc&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=035efc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Filipe;I'm+17+years+old;I'm+from+Brazil;I'm+a+Software+Engineering+Student;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=035efc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Matheus+Filipe;I'm+17+years+old;I'm+from+Brazil;I'm+a+Full-Stack+Developer+;Be+Welcome!+:%29)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matthael&show_icons=true&count_private=true&hide_border=true&title_color=035efc&icon_color=035efc&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Filipe github stats" /> 
@@ -12,7 +12,7 @@
 
 </div>
 
-### Studying in this moment:
+### Knowlegdes:
 <div align="center">
 
 ![Figma](https://img.shields.io/badge/Figma-035efc?style=for-the-badge&logo=figma&logoColor=FFF)
